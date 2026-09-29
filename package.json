@@ -1,0 +1,40 @@
+{
+  "name": "splitflow",
+  "version": "1.0.0",
+  "description": "Modern group expense splitter with multi-currency live conversions, flexible split models, debt simplification, receipt OCR scanner, and interactive settlement pathways.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "oxlint",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "expense-splitter",
+    "splitwise",
+    "group-expenses",
+    "multi-currency",
+    "debt-simplification",
+    "currency-converter",
+    "receipt-scanner",
+    "fintech",
+    "react",
+    "vite"
+  ],
+  "author": "Abhishek Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "canvas-confetti": "^1.9.4",
+    "lucide-react": "^1.48.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "@vitejs/plugin-react": "^6.1.1",
+    "oxlint": "^1.81.0",
+    "vite": "^8.3.0"
+  }
+}
